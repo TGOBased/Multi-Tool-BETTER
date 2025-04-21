@@ -1,1 +1,1 @@
-Go To releses
+Go To Releases
